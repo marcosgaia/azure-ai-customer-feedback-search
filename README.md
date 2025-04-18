@@ -1,4 +1,6 @@
-# 🚀 Projeto - Azure AI Customer Feedback Search
+![Banner do projeto](./A_digital_graphic_banner_showcases_the_\"Azure_AI_C.png)
+
+#  Projeto - Azure AI Customer Feedback Search
 
 Este repositório contém a documentação e evidências da execução do **Lab 11: Explore an Azure AI Search index (UI)**, parte da trilha **Microsoft Learn AI Fundamentals**, feito como desafio prático.
 
@@ -14,7 +16,7 @@ Criar uma solução de indexação inteligente com **Azure Cognitive Search**, i
 
 ---
 
-## 🧰 Recursos utilizados
+##  Recursos utilizados
 
 - **Azure Cognitive Search** (Free Tier)
 - **Azure Blob Storage**
@@ -23,7 +25,7 @@ Criar uma solução de indexação inteligente com **Azure Cognitive Search**, i
 
 ---
 
-## 📸 Prints da execução
+##  Prints da execução
 
 Os prints com todas as etapas da execução estão abaixo:
 
@@ -40,7 +42,7 @@ Os prints com todas as etapas da execução estão abaixo:
 
 ---
 
-## 📍 Etapas realizadas
+##  Etapas realizadas
 
 1. Criação de Storage Account com container de documentos
 2. Upload de arquivos (ex: reviews)
@@ -56,7 +58,7 @@ Os prints com todas as etapas da execução estão abaixo:
 
 ---
 
-## ⚠️ Observação sobre Base64
+## ⚠ Observação sobre Base64
 
 > A opção “Chaves de Codificação Base-64” **não aparece mais** na interface atual do Azure.  
 > Isso ocorre porque a plataforma já interpreta arquivos binários automaticamente.  
@@ -64,13 +66,13 @@ Os prints com todas as etapas da execução estão abaixo:
 
 ---
 
-## 📄 Referência oficial
+##  Referência oficial
 
 - [Microsoft Learn - Lab 11: Explore AI Search Index](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Marcos Gaia**  
 Repositório: [github.com/marcosgaia](https://github.com/marcosgaia)  
