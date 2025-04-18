@@ -1,4 +1,5 @@
-![Banner do projeto](./A_digital_graphic_banner_showcases_the_\"Azure_AI_C.png)
+![Banner do projeto](./banner.png)
+
 
 #  Projeto - Azure AI Customer Feedback Search
 
